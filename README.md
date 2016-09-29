@@ -7,3 +7,10 @@ https://gist.github.com/skukx/cb4aacce5f555e6521a604bb5f991ff0
  - Clone repo
  - run `bundle install`
  - run `rspec`
+ 
+## Files to Edit
+ - `lib/prepend_demo/my_demo_decorator.rb`
+ - `lib/prepend_demo/my_demo/my_increment.rb`
+
+## Goal
+ - Make rspec tests pass
